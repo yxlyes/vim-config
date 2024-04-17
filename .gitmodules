@@ -1,0 +1,11 @@
+[submodule "NERDTree"]
+	path = .vim/pack/github/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+
+[submodule "LeaderF"]
+	path = .vim/pack/github/start/LeaderF
+	url = git@github.com:Yggdroot/LeaderF.git
+
+[submodule "copilot"]
+	path = .vim/pack/github/start/copilot.vim
+	url = git@github.com:github/copilot.vim.git
