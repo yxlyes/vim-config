@@ -1,0 +1,8 @@
+The steps of using this repository are as follows:
+	1. cd ~
+	2. mkdir vimConfig
+	3. cd vimConfig
+	4. git clone https://github.com/yxlyes/vim-config.git
+	5. cd ~
+	6. ln -s vimConfig/vim-config/.vimrc .vimrc
+	7. ln -s vimConfig/vim-config/.vim .vim
